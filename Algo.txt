@@ -3,3 +3,5 @@
 3. Pay $ 
 4. Pizza gets delivered
 5. Eat Pizza 
+6. Drink Coke
+7. Watch TV
