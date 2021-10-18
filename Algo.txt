@@ -1,4 +1,5 @@
 1. Call Pizza Hut
-2. Order Pepperoni Pizza
-3. Pay $
-4. Food delivered
+2. Order Pepperoni Pizza - Large
+3. Pay $ 
+4. Pizza gets delivered
+5. Eat Pizza 
