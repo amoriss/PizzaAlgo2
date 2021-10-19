@@ -1,7 +1,8 @@
-1. Call Pizza Hut
+1. Call Pizza Hut or Dominos
 2. Order Pepperoni Pizza - Large
 3. Pay $ 
 4. Pizza gets delivered
 5. Eat Pizza 
 6. Drink Coke
 7. Watch TV
+8. Go to sleep
